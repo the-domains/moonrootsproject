@@ -1,6 +1,6 @@
 name: Moonrootsproject
 favicon: null
-layout_spectrum: 0.072046990506351
+layout_spectrum: 0
 typography_spectrum: 0.39969393354840577
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.625
+  brandStrength: 0.3125
   lightness: 0.6991766723804176
   saturation: 0.13609866797924042
   rhythmicContrast: 0.024889812106266618
