@@ -6,22 +6,30 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T08:38:48.054Z'
-dateModified: '2016-02-11T08:37:12.395Z'
-title: "Moon Roots Project at Euriska - 2nd February 2016.\_"
+datePublished: '2016-02-11T08:46:13.626Z'
+dateModified: '2016-02-11T08:42:54.753Z'
+title: 'Moon Roots Project at Euriska - 2nd February 2016. '
 author: []
+sourcePath: _posts/2016-02-11-moon-roots-project-at-euriska-2nd-february-2016.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-moon-roots-project-at-euriska-2nd-february-2016.md
-published: true
 url: moon-roots-project-at-euriska-2nd-february-2016/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/859ef4f2-110f-4e84-83b1-9a4f9d632b02.jpg)
-
 # Moon Roots Project at Euriska - 2nd February 2016\.
+
+Slammed Euriska on the 2nd of February while opening for one of the most renowned acts in the country, Ankytrixx.  
+The club saw an early walk in which is rare in Pune and the crowd stuck to the dance floor for 5 hours straight and continued for another 3 once Ankytrixx took over.
+
+Next up - Euriska 14th February opening for Lee Foss & Moog Conspiracy.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e73149eefb74e2521441ad8978c195a4/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb9c87829f7f15ba2bffa10a3f783465b6e3aff90.jpg)
+
+Uploading Item...
+
+#
