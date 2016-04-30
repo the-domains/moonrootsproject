@@ -1,6 +1,6 @@
 name: Moonrootsproject
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49428
 typography_spectrum: 0.71517
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a032c'
-    - '#ffffff'
-    - '#c1bb97'
-    - '#7d6690'
-    - '#f706e9'
-  brandStrength: 0.1875
-  lightness: 0.25
-  saturation: 0.25
-  rhythmicContrast: 0.25
+    - '#192936'
+    - '#d0e0b1'
+    - '#51af97'
+    - '#b0ac51'
+    - '#737e46'
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
